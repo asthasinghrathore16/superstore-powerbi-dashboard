@@ -52,7 +52,7 @@ Star schema: Fact_Sales with Dim_Customer, Dim_Product, Dim_Location, Dim_Date.
 
 
 
-![categoriesI](page4_sibcategories.png)
+![Sibcategories](page4_sibcategories.png)
 
 
 
